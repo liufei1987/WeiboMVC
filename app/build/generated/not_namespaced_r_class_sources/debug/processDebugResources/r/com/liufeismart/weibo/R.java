@@ -3394,8 +3394,13 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f060060;
     public static final int notification_tile_bg=0x7f060061;
     public static final int notify_panel_notification_icon_bg=0x7f060062;
-    public static final int tooltip_frame_dark=0x7f060063;
-    public static final int tooltip_frame_light=0x7f060064;
+    public static final int retry_btn_default=0x7f060063;
+    public static final int retry_btn_press=0x7f060064;
+    public static final int retry_btn_selector=0x7f060065;
+    public static final int tooltip_frame_dark=0x7f060066;
+    public static final int tooltip_frame_light=0x7f060067;
+    public static final int weibosdk_common_shadow_top=0x7f060068;
+    public static final int weibosdk_empty_failed=0x7f060069;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
