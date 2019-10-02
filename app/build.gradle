@@ -43,4 +43,12 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation(name:'core-4.4.1-openDefaultRelease', ext:'aar')
 //    implementation 'com.sina.weibo.sdk:core:4.4.1:openDefaultRelease@aar'
+    //retrofit start
+    implementation 'com.squareup.retrofit2:retrofit:2.0.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.0.2'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.0.2'
+    //retrofit end
+
+    //Recyclerview
+    implementation 'com.android.support:recyclerview-v7:23.4.0'
 }
