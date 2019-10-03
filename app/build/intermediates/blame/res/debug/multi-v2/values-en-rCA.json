@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liufeismart/Documents/workspace/WeiboMVC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/liufeismart/Documents/workspace/weibo/WeiboMVC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/Users/liufeismart/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4aba7aadfad2ddfdae9ead3dfd9b8804/res/values-en-rCA/values-en-rCA.xml",
